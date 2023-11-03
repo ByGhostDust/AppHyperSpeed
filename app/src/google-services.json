@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914354773188",
+    "project_id": "hyperspeed-24f3e",
+    "storage_bucket": "hyperspeed-24f3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914354773188:android:2bf78862cfbf0cc035bd91",
+        "android_client_info": {
+          "package_name": "com.ghostdust.hyperspeed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMilVFLVeXbd_a-9H9tI3JtZqso6PSdps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
